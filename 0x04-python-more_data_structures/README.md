@@ -1,6 +1,6 @@
 # Python - More Data Structures: Set, Dictionary
 
-In this project, I learned about sets and dictionaries in Python. I practiced using them
+In this project, I famuiliarized myself with sets and dictionaries in Python. I did practice tests using them
 with the `lambda`, `map`, `filter`, and `reduce` methods.
 
 ## Function Prototypes :floppy_disk:
